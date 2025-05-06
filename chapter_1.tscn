@@ -412,7 +412,7 @@ texture = ExtResource("3_8o7lh")
 [node name="Chest" type="StaticBody2D" parent="."]
 position = Vector2(224, 152)
 script = ExtResource("4_345w4")
-item = "Sword"
+item = "sword"
 metadata/_edit_group_ = true
 
 [node name="ChestOpened" type="Sprite2D" parent="Chest"]
